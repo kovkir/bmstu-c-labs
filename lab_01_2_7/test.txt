@@ -1,0 +1,30 @@
+Input: 0.5 0.001
+Output:
+s(x) = 0.523177
+f(x) = 0.523599
+абсолютная ошибка = 0.000422
+относительная ошибка = 0.000805
+Program ended with exit code: 0
+
+Input: 0.8 0.9
+Output:
+s(x) = 0.000000
+f(x) = 0.927295
+абсолютная ошибка = 0.927295
+относительная ошибка = 1.000000
+Program ended with exit code: 0
+
+Input: a 0.1
+Output:
+Ошибка ввода!
+Program ended with exit code: 1
+
+Input: 1 0.01
+Output:
+Неверное значение x!
+Program ended with exit code: 2
+
+Input: 0.9 2
+Output:
+Неверное значение eps!
+Program ended with exit code: 3

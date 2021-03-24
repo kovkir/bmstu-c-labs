@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.gcda
+*.gcov
+*.gcno
+.DS_Store
+*.xcodeproj
+.vscode
+*.a
+*.so

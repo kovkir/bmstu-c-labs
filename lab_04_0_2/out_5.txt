@@ -1,0 +1,8 @@
+Result:
+qwerty 1
+uiop 1
+qwert 1
+y 2
+yy 1
+Hello 1
+World 1

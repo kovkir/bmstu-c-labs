@@ -1,0 +1,9 @@
+Input: 600
+Output:
+0 час(а,ов), 10 минут(a,ы), 0 секунд(а,ы)
+Program ended with exit code: 0
+
+Input: 103
+Output:
+0 час(а,ов), 1 минут(a,ы), 43 секунд(а,ы)
+Program ended with exit code: 0

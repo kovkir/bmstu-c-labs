@@ -1,0 +1,4 @@
+Input: 0 0 4 0 0 3
+Output:
+Периметр треугольника равен 12.00000
+Program ended with exit code: 0

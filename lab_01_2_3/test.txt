@@ -1,0 +1,9 @@
+Input: 1 2 3
+Output:
+Сопротивление соединения равно 0.54545
+Program ended with exit code: 0
+
+Input: 4 4 4
+Output:
+Сопротивление соединения равно 1.33333
+Program ended with exit code: 0
